@@ -11,6 +11,10 @@ These projects roughly trace my path across cloud infrastructure, Move/blockchai
   A bridge that lets local MCP clients use browser-native WebMCP tools through Playwright, with native and adapter-backed execution paths.
 - [holon-run/uxc](https://github.com/holon-run/uxc) — Creator / Core Contributor, since 2026  
   A universal API calling CLI that gives agents one URL-first interface across OpenAPI, gRPC, GraphQL, MCP, JSON-RPC, and subscriptions.
+- [jolestar/mdorigin](https://github.com/jolestar/mdorigin) — Creator, since 2026  
+  A markdown-first publishing tool for humans and agents, exposing the same content as HTML for browsers and Markdown for tools, with built-in Cloudflare deployment and search integration.
+- [jolestar/indexbind](https://github.com/jolestar/indexbind) — Creator, since 2026  
+  A local-first Markdown search engine with Node.js CLI, Rust indexing core, and WASM runtime support for browsers and Cloudflare Workers.
 - [holon-run/holon](https://github.com/holon-run/holon) — Core Contributor, since 2025  
   A headless coding-agent runner that turns GitHub issues into PR-ready patches and summaries for local or CI workflows.
 - [nuwa-protocol/x402-exec](https://github.com/nuwa-protocol/x402-exec) — Core Contributor, since 2025  
